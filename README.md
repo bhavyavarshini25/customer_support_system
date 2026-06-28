@@ -1,7 +1,7 @@
 <div align="center">
 *GithubRepo:* https://github.com/bhavyavarshini25/customer_support_system
 
-# 🤖 Karthikeya Technologies
+# 🤖 KSSK Technologies
 ### AI-Powered Customer Support Automation System
 
 [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
