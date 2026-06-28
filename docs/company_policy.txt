@@ -1,0 +1,30 @@
+COMPANY POLICY DOCUMENT - ABC Technologies
+
+1. REFUND POLICY
+- Refunds are available within 30 days of purchase for annual subscriptions.
+- Monthly subscriptions are non-refundable after the billing cycle starts.
+- Refund requests must be approved by a billing supervisor.
+- Refunds are processed within 7-10 business days.
+
+2. SUBSCRIPTION CANCELLATION POLICY
+- Customers can cancel anytime. Service continues until end of billing period.
+- Cancellation of annual plans requires supervisor approval to issue prorated refund.
+- Account data is retained for 90 days after cancellation.
+
+3. ACCOUNT CLOSURE POLICY
+- Account closure is permanent and requires supervisor approval.
+- All data is deleted after 90-day retention window.
+- Customers must settle any outstanding invoices before closure.
+
+4. COMPENSATION POLICY
+- Compensation (credits, discounts) for service disruptions requires management approval.
+- SLA violations of >4 hours qualify for service credits.
+- Compensation up to 20% of monthly bill can be approved by billing supervisor.
+
+5. ESCALATION POLICY
+- Unresolved issues after 48 hours escalate to senior support.
+- Critical data loss or security incidents escalate immediately to management.
+
+6. SUPPORT HOURS
+- Standard support: Monday–Friday, 9 AM–6 PM (local time).
+- Emergency support: 24/7 for critical outages.
