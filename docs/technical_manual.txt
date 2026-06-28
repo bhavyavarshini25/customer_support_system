@@ -1,0 +1,41 @@
+TECHNICAL MANUAL - ABC Technologies
+
+1. SYSTEM REQUIREMENTS
+   - OS: Windows 10+, macOS 12+, Ubuntu 20.04+
+   - RAM: Minimum 4 GB (8 GB recommended)
+   - Browser: Chrome 90+, Firefox 88+, Edge 90+
+   - Internet: Minimum 5 Mbps
+
+2. INSTALLATION
+   - Web app: No installation. Access via https://app.abctech.com
+   - Desktop app: Download from https://abctech.com/download
+   - Mobile: Available on iOS App Store and Google Play
+
+3. LOGIN ISSUES
+   - Forgotten password: Use "Forgot Password" on login page. Reset link sent to email.
+   - Account locked: After 5 failed attempts, account locks for 30 minutes.
+   - SSO issues: Contact IT admin to verify SSO configuration.
+
+4. FILE UPLOAD ISSUES
+   - Supported formats: PDF, DOCX, XLSX, PNG, JPG (max 50 MB per file)
+   - If upload crashes: Clear browser cache, disable extensions, try incognito mode.
+   - Large file uploads: Use the desktop app for files >20 MB for better stability.
+   - Error code UPL-001: File format not supported.
+   - Error code UPL-002: File exceeds size limit.
+   - Error code UPL-003: Network timeout during upload — retry with stable connection.
+
+5. APPLICATION CRASHES
+   - Step 1: Clear browser cache and cookies.
+   - Step 2: Disable browser extensions.
+   - Step 3: Try a different browser.
+   - Step 4: Check system requirements.
+   - Step 5: If issue persists, collect error logs from Settings > Diagnostics and contact support.
+
+6. CONFIGURATION
+   - API keys: Settings > Integrations > API Keys
+   - Webhooks: Settings > Integrations > Webhooks
+   - User roles: Settings > Team > Roles & Permissions
+
+7. DATA BACKUP
+   - Automatic daily backups retained for 30 days.
+   - Manual export: Settings > Data > Export (CSV/JSON).

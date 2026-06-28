@@ -1,0 +1,31 @@
+FAQ DOCUMENT - ABC Technologies
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password". Enter your email and check your inbox for a reset link. The link expires in 24 hours.
+
+Q: Can I upgrade or downgrade my plan?
+A: Yes. Go to Settings > Billing > Change Plan. Upgrades are effective immediately (prorated). Downgrades take effect at next billing cycle.
+
+Q: How do I add more users to my account?
+A: Go to Settings > Team > Invite Members. Enter the email addresses and assign roles.
+
+Q: What payment methods do you accept?
+A: We accept Visa, MasterCard, American Express, PayPal, and bank wire transfers for Enterprise plans.
+
+Q: How do I download an invoice?
+A: Go to Settings > Billing > Invoice History and click Download PDF next to any invoice.
+
+Q: Is my data secure?
+A: Yes. We use AES-256 encryption for data at rest and TLS 1.3 for data in transit. We are SOC 2 Type II certified.
+
+Q: Can I export my data?
+A: Yes. Go to Settings > Data > Export. You can export in CSV or JSON format.
+
+Q: What is the SLA for uptime?
+A: We guarantee 99.9% uptime. Any downtime exceeding this qualifies for service credits per our SLA policy.
+
+Q: How do I contact support?
+A: Email: support@abctech.com | Chat: Available in the app | Phone: 1-800-ABC-TECH (Enterprise only)
+
+Q: Can I cancel anytime?
+A: Yes. Monthly plans can be cancelled anytime. Annual plans can be cancelled but are non-refundable unless within 30 days of purchase.
